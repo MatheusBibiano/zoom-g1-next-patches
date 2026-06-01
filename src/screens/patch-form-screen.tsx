@@ -528,8 +528,8 @@ export const PatchFormScreen = () => {
                     name="eqMid"
                     render={({ field: { onChange, value } }) => (
                       <Slider
-                        minimumValue={-6}
-                        maximumValue={6}
+                        minimumValue={EQUALIZER_MIN}
+                        maximumValue={EQUALIZER_MAX}
                         step={1}
                         value={value}
                         onValueChange={onChange}
@@ -561,8 +561,8 @@ export const PatchFormScreen = () => {
                     name="eqHigh"
                     render={({ field: { onChange, value } }) => (
                       <Slider
-                        minimumValue={-6}
-                        maximumValue={6}
+                        minimumValue={EQUALIZER_MIN}
+                        maximumValue={EQUALIZER_MAX}
                         step={1}
                         value={value}
                         onValueChange={onChange}
