@@ -4,6 +4,10 @@ O **Zoom G1 Patches Manager** é um aplicativo mobile moderno desenvolvido com *
 
 Ele funciona como um diário e organizador digital de "patches" (configurações de efeitos), permitindo criar, listar, detalhar, editar e excluir as cadeias de pedais necessárias para reproduzir os timbres mais marcantes de grandes artistas e canções clássicas da história da música.
 
+<div align="center">
+  <img src="./assets/app-screenshot.png" alt="Zoom G1 Patches Manager App Screenshot" width="320" />
+</div>
+
 ---
 
 ## ✨ Principais Funcionalidades
